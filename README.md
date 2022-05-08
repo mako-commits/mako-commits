@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sam's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=git-mako&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="left" alt="Sam's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=mako-commits&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-mako&layout=compact&theme=tokyonight" />
+<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mako-commits&layout=compact&theme=tokyonight" />
 
 </details> 
