@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<hr />
+
   <div align="center">
   <a href="https://github.com/awwal1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mako-commits&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mako-commits&layout=compact&langs_count=7&theme=gradient"/>
 </div>
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sam's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=mako-commits&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mako-commits&layout=compact&theme=tokyonight" />
 
-</details> 
+</details>  -->
