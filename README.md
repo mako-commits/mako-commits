@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### I'm a self-taught developer. I enjoy creating interesting applications.
 - 🔭 I’m currently working on personal  projects
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning backend technologies
 - 👯 I’m looking to collaborate on open source
-- 📫 How to reach me: [Twitter](https://twitter.com/makoTweets_)
+- 📫 How to reach me: [Twitter](https://twitter.com/tweets_by_mako) or [Linkedin](https://www.linkedin.com/in/mubarak-mako-mustapha/)
 
 
 <br />
